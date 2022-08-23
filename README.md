@@ -60,3 +60,8 @@ La carpeta tiene que de quedar así:
 │   │   ├── sebas2.png
 ```
 Habrá más archivos de los que aparecen en el árbol presentado anteriorme. Deben de ir en la raíz de la carpeta
+##Creadores
+Jesus Martin Garcia Encinas - https://github.com/Jesusmaing
+Sebastian Guadalupe Rivera de la Cruz - https://github.com/SebRivera
+Marco Antonio Guerrero Vasquez - https://github.com/Squisix
+Jesus Israel Urias Paramo - https://github.com/JesusUrias
