@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/marti/Desktop/LCCRECOGNITION/mlruns/0/3d8000754bec4de5a56f1a4335cedc99/artifacts
+end_time: 1652842872375
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+name: ''
+run_id: 3d8000754bec4de5a56f1a4335cedc99
+run_uuid: 3d8000754bec4de5a56f1a4335cedc99
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1652842842174
+status: 3
+tags: []
+user_id: marti
