@@ -1,6 +1,5 @@
 # Medium
-Se desarrolló una entrada en Medium explicando el funcionamiento y desarrollo del proyecto.
-https://medium.com/@jesusmaing/lcc-recognition-7b2b77a8716f
+Se desarrolló una entrada en [Medium](https://medium.com/@jesusmaing/lcc-recognition-7b2b77a8716f) explicando el funcionamiento y desarrollo del proyecto.
 
 # Reconocimiento facial
 El proyecto utiliza tensorflow y opencv para hacer reconocimiento facial
