@@ -1,3 +1,5 @@
+# Medium
+Se desarrolló una entrada en Medium explicando el funcionamiento y desarrollo del proyecto.
 https://medium.com/@jesusmaing/lcc-recognition-7b2b77a8716f
 
 # Reconocimiento facial
